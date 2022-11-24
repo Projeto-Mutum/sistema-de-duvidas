@@ -36,7 +36,7 @@ i{
 .login input{
   margin-top: 1.5rem;
   background-color: #E6E6E6;
-  color: #CBD0F7;
+  color: #0048ac;
   padding-left: 1.2rem;
   border: none;
   height: 3rem;
@@ -50,7 +50,7 @@ i{
 }
 
 input::placeholder{
-  color: #718B9E;
+  color: #0048ac;
   font-size: 14px;
 }
 
